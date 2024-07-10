@@ -148,6 +148,10 @@
     margin: 0 auto;
   }
 
+  .footer-social {
+    text-align: left;
+  }
+
   .subscribe {
     width: auto;
   }
@@ -172,10 +176,30 @@
   .subscribe-form {
     flex-direction: row;
   }
+
+  .footer-social {
+    margin-right: 80px;
+  }
 }
 
 @media (min-width: 1158px) {
   .footer {
     padding: 100px 0;
+  }
+
+  .footer-content {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0;
+    max-width: none;
+    margin: 0;
+  }
+
+  .footer-info {
+    margin-right: 120px;
+  }
+
+  .footer-social {
+    margin-right: 80px;
   }
 }
