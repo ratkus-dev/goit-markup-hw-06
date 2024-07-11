@@ -207,6 +207,10 @@ nav {
 }
 
 @media (min-width: 1158px) {
+  .header-logo {
+    margin-right: 76px;
+  }
+
   .header-contacts {
     flex-direction: row;
     gap: 40px;
