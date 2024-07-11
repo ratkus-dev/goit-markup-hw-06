@@ -176,10 +176,6 @@
   .subscribe-form {
     flex-direction: row;
   }
-
-  .footer-social {
-    margin-right: 80px;
-  }
 }
 
 @media (min-width: 1158px) {

@@ -4,7 +4,7 @@
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
     0 2px 1px 0 rgba(46, 47, 66, 0.08);
   border-bottom: 1px solid var(--cornflower);
-  padding: 16px;
+  padding: 16px 0;
 }
 
 .header-content {
