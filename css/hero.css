@@ -43,4 +43,8 @@
     padding: 188px 0;
     max-width: 1440px;
   }
+
+  .hero-title {
+    margin-bottom: 48px;
+  }
 }
