@@ -126,6 +126,11 @@ nav {
   transform: translateX(0);
 }
 
+.menu-close-btn {
+  top: 16px;
+  right: 16px;
+}
+
 .mob-menu-content {
   display: flex;
   flex-direction: column;

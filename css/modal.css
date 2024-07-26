@@ -39,23 +39,9 @@
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.close-btn {
-  width: 24px;
-  height: 24px;
-  background-color: var(--cornflower);
-  color: var(--navy-blue);
-  position: absolute;
+.modal-close-btn {
   top: 24px;
   right: 24px;
-  border-radius: 50%;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  transition:
-    background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
-    border 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
 }
 
 .close-btn:hover,
