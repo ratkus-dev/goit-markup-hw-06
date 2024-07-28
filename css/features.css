@@ -34,18 +34,6 @@
   margin-bottom: 8px;
 }
 
-/*.features-item:not(:last-child) {*/
-/*  margin-right: 24px;*/
-/*}*/
-
-/*.features-title {*/
-/*  font-size: 20px;*/
-/*  line-height: 1.2;*/
-/*  letter-spacing: 0.02em;*/
-/*  color: var(--navy-blue);*/
-/*  margin-bottom: 8px;*/
-/*}*/
-
 .features-description {
   letter-spacing: 0.02em;
   color: var(--slate);

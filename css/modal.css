@@ -150,6 +150,8 @@
 }
 
 .label-accept {
+  display: flex;
+  align-items: center;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -167,6 +169,7 @@
   border-radius: 2px;
   margin-right: 8px;
   fill: transparent;
+  flex-shrink: 0;
   transition:
     background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
