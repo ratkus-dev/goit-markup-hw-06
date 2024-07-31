@@ -121,6 +121,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+html.modal-open {
+  overflow-y: hidden;
+}
+
 body,
 html {
   position: relative;
