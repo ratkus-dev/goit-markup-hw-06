@@ -35,9 +35,9 @@
   }
 }
 
-@media (min-width: 1160px) and (min-device-pixel-ratio: 2),
-  (min-width: 1160px) and (min-resolution: 192dpi),
-  (min-width: 1160px) and (min-resolution: 2dppx) {
+@media (min-width: 1158px) and (min-device-pixel-ratio: 2),
+  (min-width: 1158px) and (min-resolution: 192dpi),
+  (min-width: 1158px) and (min-resolution: 2dppx) {
   .hero {
     background-image: linear-gradient(to bottom, var(--grey), var(--grey)), url("../images/hero/hero-img@2x.jpg");
   }
